@@ -7,13 +7,13 @@ What temperatures would make a surf and ice cream shop viable? Because this is a
 #### June Temps
 The analysis covered every recorded June temperature measurement from 2010 to 2017. This is th resulting analysis:
 
-![June](/Resources/June Temps.PNG)
+![June](/Resources/June%20Temps.PNG)
 
 With 1700 data points, this gives a solid benchmark. Average temperature is 75 degrees, with very little variance. Not even the max and min temps are all that extreme. 
 #### December Temps
 Here is the December Temperatures analysis:
 
-![Dec](/Resources/Dec Temps.PNG)
+![Dec](/Resources/Dec%20Temps.PNG)
 
 It's a little cooler in December (71 degrees to June's 75 degrees), but not significantly. The standard deviation is also a little bigger (3.7 to June's 3.2) but the mid 50% temperature range is similar (5 degree difference to June's 4 degree difference). This points to more extreme temperatures in December, which is backed by the difference in the mid and max temperature. 
 ## Summary
